@@ -1,5 +1,5 @@
 {
-"products": [
+"clients": [
 {
 "id": 1,
 "name": "Hueso",
@@ -15,14 +15,6 @@
 "price": 100.5,
 "discount": 0,
 "description": "A tu perrito le encantara comer aqui!"
-},
-{
-"id": 3,
-"name": "Comida de gato",
-"image": "https://img.bekiamascotas.com/articulos/59000/59349/1.jpg",
-"price": 200.5,
-"discount": 0,
-"description": "Es para probar la foto"
 },
 {
 "id": 4,
