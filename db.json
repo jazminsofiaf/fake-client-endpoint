@@ -1,25 +1,22 @@
 {
 "clients": [
 {
-"id": 1,
+"id": "1",
 "name": "Hueso",
-"image": "https://static.wixstatic.com/media/82fcd3_37a6a6469ce245f68bc4be89ad53c996~mv2_d_1920_1920_s_2.jpg/v1/fill/w_532,h_532,al_c,q_80,usm_0.66_1.00_0.01/82fcd3_37a6a6469ce245f68bc4be89ad53c996~mv2_d_1920_1920_s_2.webp",
 "price": 35.5,
 "discount": 20,
 "description": "Delicioso hueso para tu perrito"
 },
 {
-"id": 2,
+"id": "2",
 "name": "Plato de comida",
-"image": "https://static.wixstatic.com/media/82fcd3_ad6ca94f8f3144fd848b79a828340ef7~mv2_d_1920_1920_s_2.jpg/v1/fill/w_532,h_532,al_c,q_80,usm_0.66_1.00_0.01/82fcd3_ad6ca94f8f3144fd848b79a828340ef7~mv2_d_1920_1920_s_2.webp",
 "price": 100.5,
 "discount": 0,
 "description": "A tu perrito le encantara comer aqui!"
 },
 {
-"id": 4,
+"id": "4",
 "name": "Rueda",
-"image": "https://static.wixstatic.com/media/82fcd3_f1d94297709e459fa748fba5acf306b8~mv2_d_1920_1920_s_2.jpg/v1/fill/w_532,h_532,al_c,q_80,usm_0.66_1.00_0.01/82fcd3_f1d94297709e459fa748fba5acf306b8~mv2_d_1920_1920_s_2.webp",
 "price": 3289.578,
 "discount": 5,
 "description": "mata pulgas"
