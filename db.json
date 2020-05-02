@@ -3,19 +3,19 @@
 			"id": "1",
 			"name": "juan",
 		        "lastName": "Gomez",
-			"businessName" : "veterinaria bonida & sa",
+			"businessName" : "veterinaria bonida & sa"
 		},
 		{
 			"id": "2",
 			"name": "Agustin",
 		        "lastName": "Blanco",
-			"businessName" : "solo atiendo Moras",
+			"businessName" : "solo atiendo Moras"
 		},
 		{
 			"id": "1",
 			"name": "jazmin",
 		        "lastName": "Ferreiro",
-			"businessName" : "veterinaria de conejitos",
+			"businessName" : "veterinaria de conejitos"
 		}
 	     
 	]
