@@ -1,25 +1,29 @@
 {
 "clients": [
 { 
-"id": 1,
+"id": "1",
 "name": "Hueso",
-"description": "Delicioso hueso para tu perrito"
+"lastName": "Hueso",
+"businessName": "Delicioso hueso para tu perrito"
 },
 {
-"id": 2,
+"id": "2",
 "name": "Plato de comida",
-"description": "A tu perrito le encantara comer aqui!"
+"lastName": "Hueso",
+"businessName": "A tu perrito le encantara comer aqui!"
 },
 {
-"id": 3,
+"id": "3",
 "name": "Comida de gato",
-"description": "Es para probar la foto"
+"lastName": "Hueso",
+"businessName": "Es para probar la foto"
 },
 {
   
-"id": 4,
+"id": "4",
 "name": "Rueda",
-"description": "mata pulgas"
+"lastName": "Hueso",
+"businessName": "mata pulgas"
 }
 ]
 }
