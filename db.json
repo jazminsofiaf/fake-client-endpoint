@@ -2,28 +2,32 @@
 "clients": [
 { 
 "id": "1",
-"name": "Hueso",
-"lastName": "Hueso",
-"businessName": "Delicioso hueso para tu perrito"
+"name": "Agustin",
+"lastName": "Lorenzo",
+"category":"veterinaria",
+"businessName": "Solo atiendo a mora"
 },
 {
 "id": "2",
-"name": "Plato de comida",
-"lastName": "Hueso",
-"businessName": "A tu perrito le encantara comer aqui!"
+"name": "Jazmin",
+"lastName": "Ferreiro",
+"category":"veterinaria",
+"businessName": "Le voy a hacer unchequeo general a esta lagartija gigante"
 },
 {
 "id": "3",
-"name": "Comida de gato",
-"lastName": "Hueso",
-"businessName": "Es para probar la foto"
+"name": "Doctor ",
+"lastName": "Malo",
+"category":"proteccionista",
+"businessName": "mato conejos para comer"
 },
 {
   
 "id": "4",
-"name": "Rueda",
-"lastName": "Hueso",
-"businessName": "mata pulgas"
+"name": "laura",
+"lastName": "chechu",
+"category":"proteccionista",
+"businessName": "Corporation & sa"
 }
 ]
 }
